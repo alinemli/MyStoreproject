@@ -1,0 +1,4 @@
+1001,elma,golden,5.0,cuval,a1
+1002,portakal,anka,20.0,kg,a2
+1003,armut,pars,30.0,adet,a3
+1004,ask,djhgd,0.0,10,-
